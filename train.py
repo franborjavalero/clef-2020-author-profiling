@@ -15,7 +15,7 @@ from sklearn.metrics import accuracy_score
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.svm import LinearSVC
 import shutil
-from utils import parse_xml_, preprocess_, prediction_xml_file, get_labels
+from utils import parse_xml_, preprocess_, get_labels
 
 def main():
     

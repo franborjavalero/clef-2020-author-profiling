@@ -16,7 +16,7 @@ def main():
     parser.add_argument('--dir_resources', type=str, default="./resources", help='Directoy where are located: vectorizer, scaler, model...; all the fited models')
     args = parser.parse_args()
 
-    # 1: logistic_regression,tfid_word_ngram1-2_maxdf0.6_mindf0.03_4329,0.681,0.76
+    # logistic_regression,tfid_word_ngram1-2_maxdf0.6_mindf0.03_4329,0.681,0.76
     en_to_configuration = {
         "tokenizer_lang": "english",
         "vectorizer": [
@@ -27,7 +27,7 @@ def main():
         "normalizer": False,
     }
     
-    # 2: logistic_regression,tfid_char_ngram1-3_maxdf0.7_mindf0.05-tfid_word_ngram1-2_maxdf0.7_mindf0.05_5768,0.797,0.876
+    # logistic_regression,tfid_char_ngram1-3_maxdf0.7_mindf0.05-tfid_word_ngram1-2_maxdf0.7_mindf0.05_5768,0.797,0.876
     es_to_configuration = {
         "tokenizer_lang": "spanish",
         "vectorizer": [
