@@ -1,9 +1,9 @@
 # Logistic regression with TF-IDF features
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This is an open source implementation of my solution to the competition: [PAN@CLEF 2020 Author Profiling](https://pan.webis.de/clef20/pan20-web/author-profiling.html).
+This is an open source implementation of our solution to the competition: [PAN@CLEF 2020 Author Profiling](https://pan.webis.de/clef20/pan20-web/author-profiling.html).
 
-My approach uses a logistic regressor model with character and word n-grams TF-IDF features.
+Our approach uses a logistic regressor model with character and word n-grams TF-IDF features.
 
 ## Dependencies
 
