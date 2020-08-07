@@ -19,13 +19,14 @@ pip install tweet-preprocessor
 ```
 ## Results
 
-The results obtained with my approach in the private test are show in the table below:
+Our approach achieves the third best solution in the private test, the results are shown in the table below:
 
 | LANG | ACC  |
 |------|------|
 | ES   | 0.78 |
 | EN   | 0.73 |
 
+Our team is **deborjavalero20**, you can check the full ranking in this [link](https://pan.webis.de/clef20/pan20-web/author-profiling.html#evaluation)
 
 ## Usage
 
