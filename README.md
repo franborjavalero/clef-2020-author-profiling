@@ -21,10 +21,10 @@ pip install tweet-preprocessor
 
 The results obtained with my approach in the private test are show in the table below:
 
-| LANG | ACC  |   |   |   |
-|------|------|---|---|---|
-| ES   | 0.78 |   |   |   |
-| EN   | 0.73 |   |   |   |
+| LANG | ACC  |
+|------|------|
+| ES   | 0.78 |
+| EN   | 0.73 |
 
 
 ## Usage
